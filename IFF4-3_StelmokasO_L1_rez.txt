@@ -1,0 +1,28 @@
+Nr. | Pratimas                 | Kartoj.  | Svoris   | Rezultatas
+--------------------------------------------------------------------
+1   | Machine Row              | 9        | 93.1     | 329.65    
+2   | Goblet Squat             | 10       | 66.0     | 338.17    
+3   | Front Raise              | 11       | 25.4     | 347.34    
+4   | Chest Fly                | 11       | 33.4     | 348.02    
+5   | Leg Extension            | 10       | 110.4    | 349.55    
+6   | Cable Curl               | 11       | 92.2     | 358.47    
+7   | Hack Squat               | 12       | 49.8     | 363.98    
+8   | Dips                     | 12       | 53.5     | 364.50    
+9   | Overhead Triceps Extension | 12       | 108.8    | 376.61    
+10  | Rear Delt Fly            | 14       | 27.6     | 388.28    
+11  | Calf Raise               | 13       | 106.4    | 389.00    
+12  | Shrug                    | 14       | 56.4     | 391.38    
+13  | Face Pull                | 14       | 60.5     | 392.00    
+14  | Preacher Curl            | 14       | 71.8     | 393.90    
+15  | Machine Chest Press      | 15       | 22.1     | 400.61    
+
+Giju statistika:
+Gija   | Apdorota   | Atitiko
+-------------------------------
+1      | 4          | 2      
+2      | 4          | 2      
+3      | 5          | 3      
+4      | 4          | 2      
+5      | 4          | 2      
+6      | 4          | 2      
+7      | 5          | 2      

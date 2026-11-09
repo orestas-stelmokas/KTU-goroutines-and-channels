@@ -1,0 +1,154 @@
+{
+  "exercises": [
+    {
+      "name": "Bench Press",
+      "reps": 1,
+      "weight": 37.3
+    },
+    {
+      "name": "Incline Dumbbell Press",
+      "reps": 4,
+      "weight": 59.0
+    },
+    {
+      "name": "Squat",
+      "reps": 3,
+      "weight": 18.8
+    },
+    {
+      "name": "Leg Press",
+      "reps": 3,
+      "weight": 22.8
+    },
+    {
+      "name": "Pull Up",
+      "reps": 3,
+      "weight": 64.7
+    },
+    {
+      "name": "Lat Pulldown",
+      "reps": 6,
+      "weight": 60.1
+    },
+    {
+      "name": "Barbell Row",
+      "reps": 5,
+      "weight": 59.0
+    },
+    {
+      "name": "Seated Cable Row",
+      "reps": 5,
+      "weight": 67.0
+    },
+    {
+      "name": "Shoulder Press",
+      "reps": 2,
+      "weight": 44.3
+    },
+    {
+      "name": "Lateral Raise",
+      "reps": 3,
+      "weight": 89.1
+    },
+    {
+      "name": "Biceps Curl",
+      "reps": 6,
+      "weight": 63.5
+    },
+    {
+      "name": "Hammer Curl",
+      "reps": 2,
+      "weight": 63.2
+    },
+    {
+      "name": "Triceps Pushdown",
+      "reps": 1,
+      "weight": 24.5
+    },
+    {
+      "name": "Skull Crusher",
+      "reps": 1,
+      "weight": 73.4
+    },
+    {
+      "name": "Leg Curl",
+      "reps": 4,
+      "weight": 27.8
+    },
+    {
+      "name": "Leg Extension",
+      "reps": 10,
+      "weight": 110.4
+    },
+    {
+      "name": "Calf Raise",
+      "reps": 13,
+      "weight": 106.4
+    },
+    {
+      "name": "Chest Fly",
+      "reps": 11,
+      "weight": 33.4
+    },
+    {
+      "name": "Dips",
+      "reps": 12,
+      "weight": 53.5
+    },
+    {
+      "name": "Face Pull",
+      "reps": 14,
+      "weight": 60.5
+    },
+    {
+      "name": "Front Raise",
+      "reps": 11,
+      "weight": 25.4
+    },
+    {
+      "name": "Preacher Curl",
+      "reps": 14,
+      "weight": 71.8
+    },
+    {
+      "name": "Cable Curl",
+      "reps": 11,
+      "weight": 92.2
+    },
+    {
+      "name": "Overhead Triceps Extension",
+      "reps": 12,
+      "weight": 108.8
+    },
+    {
+      "name": "Hack Squat",
+      "reps": 12,
+      "weight": 49.8
+    },
+    {
+      "name": "Goblet Squat",
+      "reps": 10,
+      "weight": 66.0
+    },
+    {
+      "name": "Machine Row",
+      "reps": 9,
+      "weight": 93.1
+    },
+    {
+      "name": "Machine Chest Press",
+      "reps": 15,
+      "weight": 22.1
+    },
+    {
+      "name": "Rear Delt Fly",
+      "reps": 14,
+      "weight": 27.6
+    },
+    {
+      "name": "Shrug",
+      "reps": 14,
+      "weight": 56.4
+    }
+  ]
+}
